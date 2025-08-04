@@ -110,7 +110,7 @@ To enable automatic deployment to DockerHub, configure these secrets in your Git
 | `DOCKER_USERNAME` | Your DockerHub username |
 | `DOCKER_PASSWORD` | Your DockerHub password or access token |
 
-## 🚦 CI/CD Pipeline Workflow
+##  CI/CD Pipeline Workflow
 
 The pipeline automatically triggers on every push to the `main` branch and performs the following steps:
 
