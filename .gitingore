@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Editor folders
+.vscode/
+.idea/
+
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# Optional: build and temp files
+dist/
+build/
+tmp/
+.cache/
+
+
+# Ignore container or image ID files
+.container-id
+.image-id
